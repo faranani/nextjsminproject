@@ -1,0 +1,2 @@
+# nextjsminproject
+simple data fetching
